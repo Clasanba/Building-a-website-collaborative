@@ -33,9 +33,13 @@ body{
     height: 25%;
 }
 .form-contact{
+    background-color: rgb(236, 234, 234);
     width: 60%;
-    height: 20%;
-    background-color: rgb(235, 231, 231);
-    padding: 5%;
-    margin-left: 20%;
+}
+.inputs{
+    width: 80%;
+}
+.contact-label {
+    min-width: 140px;
+    box-sizing: content-box;
 }
