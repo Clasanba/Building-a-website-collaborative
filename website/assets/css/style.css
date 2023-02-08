@@ -28,3 +28,14 @@ body{
 .borde-foto {
     border: 0;
 }
+.image{
+    width: 25%;
+    height: 25%;
+}
+.form-contact{
+    width: 60%;
+    height: 20%;
+    background-color: rgb(235, 231, 231);
+    padding: 5%;
+    margin-left: 20%;
+}
